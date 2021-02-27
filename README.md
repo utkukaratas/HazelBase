@@ -12,3 +12,4 @@ This is going to be a polyglot backend service similar to Firebase/Parse.
 
 * Serial freelancers who copy/paste from their old Django/Rails/Node projects to hit the ground running on their new projects.
 * Developers who want to get rid of depending on Firebase, Auth0, AWS Cognito, etc... 
+* Frontend developers who want to spend as little time as possible on backend work.
