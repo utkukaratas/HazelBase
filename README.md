@@ -30,20 +30,20 @@ Consider what that "basic" functionality is:
   * ... I can go on and on ...
 * All of those in a performant way, (reads "cached").
 
-What you can do:
+### What you can do:
 
-1) Do all those yourself: costs months, even up to 1 man-year.
+#### 1) Do all those yourself: costs months, even up to 1 man-year.
 
 * LOL no.
 
-2) Use one of your popular frameworks of your ecosystem. 
+#### 2) Use one of your popular frameworks of your ecosystem. 
 
 * Ready made user models and most of the functionality above.
 + Weeks to configure.
 * Exactly why RoR, Django, Node/Express... saw explosive growth in late 2000's - early 2010's.
 - Still not fast enough for this day and age.
 
-3) Use a hosted solution (Firebase/Parse/Auth0/Okta/AWS Cognito)
+#### 3) Use a hosted solution (Firebase/Parse/Auth0/Okta/AWS Cognito)
 
 + Cost hours/days (if your language is supported)
 + Younger generation's favorite AFAICS.
@@ -55,7 +55,7 @@ What you can do:
 ** Huge market; A few months ago Okta bought Auth0 for 6.5 billion usd.
 ** Firebase still haven't been abondoned by Google.
 
-4) aaaaaaand: HazelBase?
+#### 4) aaaaaaand: HazelBase?
 
 * Hazelcast Platform already provides most of the moving/crucial parts of a typical Backend app:
   * caching
