@@ -52,8 +52,8 @@ Consider what that "basic" functionality is:
 - All closed source; no way to self host.
 - Not much room for customization.
 
-** Huge market; A few months ago Okta bought Auth0 for 6.5 billion usd.
-** Firebase still haven't been abondoned by Google.
+* Huge market; A few months ago Okta bought Auth0 for 6.5 billion usd.
+* Firebase still haven't been abondoned by Google.
 
 #### 4) aaaaaaand: HazelBase?
 
