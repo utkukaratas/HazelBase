@@ -43,7 +43,12 @@ Consider what that "basic" functionality is:
 * Exactly why RoR, Django, Node/Express... saw explosive growth in late 2000's - early 2010's.
 - Still not fast enough for this day and age.
 
-#### 3) Use a hosted solution (Firebase/Parse/Auth0/Okta/AWS Cognito)
+#### 3) Buy ready made app templates from the likes of CodeCanyon.
+
+- funny but true.
++ very active ecosystem on app templates all around the web.
+
+#### 4) Use a hosted solution (Firebase/Parse/Auth0/Okta/AWS Cognito)
 
 + Cost hours/days (if your language is supported)
 + Younger generation's favorite AFAICS.
@@ -55,7 +60,7 @@ Consider what that "basic" functionality is:
 * Huge market; A few months ago Okta bought Auth0 for 6.5 billion usd.
 * Firebase still haven't been abondoned by Google.
 
-#### 4) aaaaaaand: HazelBase?
+#### 5) aaaaaaand: HazelBase?
 
 * Hazelcast Platform already provides most of the moving/crucial parts of a typical Backend app:
   * caching
@@ -64,6 +69,7 @@ Consider what that "basic" functionality is:
   * clients for popular languages.
   * all sorts of integrations (S3, other databases, etc..)
   * all this in a simple to deploy package (nothing beats "java -jar" (well, except a Go binary))) and performant. 
+  * HAZELCAST IS THE BACKBONE FOR YOUR WHOLE BACKEND.
 
 Sitting on top all that; why don't we use it:  
  
